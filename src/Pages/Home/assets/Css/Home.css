@@ -1,0 +1,16 @@
+.vacancies-card {
+    width: 33%;
+}
+.vacancies-card .vacancies-top >div{
+    background-color: black;
+    width: 50;
+}
+.vacancies-card .vacancies-top >div h4{
+    color:#fff;
+    padding: .4rem;
+}
+.vacancies-card .vacancies-bottom .social-icons{
+    font-size: 1.3rem;
+    margin-top: 2rem;
+    gap: 1rem;
+}

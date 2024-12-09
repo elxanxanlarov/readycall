@@ -1,0 +1,9 @@
+.header {
+    padding: 1rem;
+}
+.header .header-con nav ul{
+    gap: 2rem;
+}
+.header .header-con nav ul li .link{
+    text-decoration: none;
+}

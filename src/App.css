@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+li{
+  list-style: none;
+}
+ul{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.dp-between{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dp-align{
+  display: flex;
+  align-items: center;
+}
+.dp-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dp-cloumn{
+  display: flex;  
+  flex-direction: column;
+}
